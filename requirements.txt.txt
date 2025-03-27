@@ -1,0 +1,8 @@
+tkcalendar
+pyttsx3
+pandas
+smtplib
+plyer
+yagmail
+dotenv
+sqlite3
